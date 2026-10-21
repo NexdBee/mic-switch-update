@@ -1,0 +1,10 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "notes": "打开应用会检查新版本，下载后覆盖安装。升级前先点关闭切换，微信通话不用挂。",
+  "sha256": "1ce59c4881ad859116460e4668e786e638766034d371a2b9a3c25f92ea331d14",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.2.0/mic-switch.apk",
+  "mirrors": [
+    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.2.0/mic-switch.apk"
+  ]
+}
