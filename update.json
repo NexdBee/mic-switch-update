@@ -1,13 +1,13 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
-  "notes": "在线更新改为从镜像下载。打开应用会检查新版本，下载后覆盖安装。升级前先点关闭切换，微信通话不用挂。",
-  "sha256": "6ba0efcec5c2b0d3d3e89aaede6a293f2e097c4e4db049e8625706654cd00195",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.1/mic-switch.apk",
+  "versionCode": 8,
+  "versionName": "1.4.2",
+  "notes": "悬浮按钮改成贴边的游戏助手。点一下展开，再切游戏或微信。升级前先点关闭切换，微信通话不用挂。",
+  "sha256": "d2a184966fdc66aa4d8e7de659ec7b6ab59cb5a79b55700f5a3bd8c5821d4480",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.1/mic-switch.apk",
-    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.1/mic-switch.apk",
+    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
+    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
     "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@main/mic-switch.apk",
-    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.1/mic-switch.apk"
+    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.2/mic-switch.apk"
   ]
 }
