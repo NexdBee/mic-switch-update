@@ -1,13 +1,13 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.2",
-  "notes": "悬浮按钮改成贴边的游戏助手。点一下展开，再切游戏或微信。升级前先点关闭切换，微信通话不用挂。",
-  "sha256": "d2a184966fdc66aa4d8e7de659ec7b6ab59cb5a79b55700f5a3bd8c5821d4480",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
+  "versionCode": 9,
+  "versionName": "1.4.3",
+  "notes": "可以设定每天打开定位、每天关闭定位。第一次要用电脑授权一行命令，应用里可以复制。升级前先点关闭切换，微信通话不用挂。",
+  "sha256": "1c79eddde04cad31a1ed59813445f201a3756cdcff52331546e1b697a1d8f1eb",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
-    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.2/mic-switch.apk",
+    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
+    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
     "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@main/mic-switch.apk",
-    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.2/mic-switch.apk"
+    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.3/mic-switch.apk"
   ]
 }
