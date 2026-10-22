@@ -1,13 +1,13 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.3",
-  "notes": "可以设定每天打开定位、每天关闭定位。第一次要用电脑授权一行命令，应用里可以复制。升级前先点关闭切换，微信通话不用挂。",
-  "sha256": "1c79eddde04cad31a1ed59813445f201a3756cdcff52331546e1b697a1d8f1eb",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
+  "versionCode": 10,
+  "versionName": "1.4.4",
+  "notes": "换了蓝色几何麦标。升级前先点关闭切换，微信通话不用挂。",
+  "sha256": "3ef1d31d76764bf9ed214a2f7baf27175c06e594cdd60ac9682346e17e449c21",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.4/mic-switch.apk",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
-    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.3/mic-switch.apk",
+    "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.4/mic-switch.apk",
+    "https://gcore.jsdelivr.net/gh/NexdBee/mic-switch-update@v1.4.4/mic-switch.apk",
     "https://cdn.jsdelivr.net/gh/NexdBee/mic-switch-update@main/mic-switch.apk",
-    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.3/mic-switch.apk"
+    "https://github.com/NexdBee/mic-switch-update/releases/download/v1.4.4/mic-switch.apk"
   ]
 }
